@@ -1,10 +1,13 @@
-Introduction
-============
+# BarCode Scanner Mobile Application
 
-Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
+## Description:- 
+This is a Mobile Application, which scans bar codes of any kind of
+products and show bar code of that products in a pop-up window box.
 
-Screenshots
-===========
+### Development Software:- Android Studio
+
+#### Language:- Java, HTML5, CSS3
+
 <img src="https://raw.github.com/dm77/barcodescanner/master/screenshots/main_activity.png" width="266">
 <img src="https://raw.github.com/dm77/barcodescanner/master/screenshots/scanner.png" width="266">
 <img src="https://raw.github.com/dm77/barcodescanner/master/screenshots/scan_results.png" width="266">
